@@ -25,6 +25,6 @@ Now I want to learn more about the structure of one of the most used technologie
 
 ## My Actual Stats
 
-[![SVA2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVA2021&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide=stars,issues,contribs)](https://github.com/SVA2021)
+[![SVA2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVA2021&count_private=false&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/SVA2021)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVA2021&count_private=true&include_all_commits=true&theme=dark&layout=compact)](https://github.com/SVA2021)
