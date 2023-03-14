@@ -9,6 +9,9 @@ Now I want to learn more about the structure of one of the most used technologie
 
 ## Skills
 
+- Angular 2+ (basics)
+- NextJS (basics)
+- MaterialUI (React)
 - React (react-router, basic hooks)
 - Redux (redux-toolkit, redux thunk)
 - TypeScript (basic features)
